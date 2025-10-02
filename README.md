@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Obaid+Ullah;MERN+Stack+Developer;Full+Stack+Engineer;Building+Digital+Experiences" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=2E9FFF&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B+I'm+Obaid+Ullah;MERN+Stack+Developer;Full+Stack+Engineer; Building+Digital+Experiences" alt="Typing SVG" />
 </div>
 
 <h3 align="center">Passionate Full Stack Developer | MERN Stack Enthusiast | Pakistan 🇵🇰</h3>
