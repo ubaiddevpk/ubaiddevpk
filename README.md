@@ -19,14 +19,14 @@ From pixel-perfect frontends to robust backend architectures, I thrive on solvin
 
 ```javascript
 const obaid = {
-    location: "Islamabad, Pakistan",
+    location: "Peshawar, Pakistan",
     role: "MERN Stack Developer",
-    code: ["JavaScript", "TypeScript", "HTML", "CSS", "C++", "Python", "PHP"],
+    code: ["JavaScript", "HTML", "CSS", "C++", "Python", "PHP"],
     technologies: {
-        frontend: ["React", "Redux", "Next.js", "Tailwind CSS", "Bootstrap", "Sass"],
+        frontend: ["React", "Redux", "Next.js", "Tailwind CSS", "Bootstrap", "Framer Motion","AOS","GSAP"],
         backend: ["Node.js", "Express.js", "REST APIs"],
-        database: ["MongoDB", "MySQL"],
-        tools: ["Git", "GitHub", "VS Code", "Postman", "npm"]
+        database: ["MongoDB", "MySQL","Firebase"],
+        tools: ["Git", "GitHub", "VS Code", "Postman", "npm","Bruno","Swagger"]
     },
     currentFocus: "Building scalable full-stack applications with MERN",
     funFact: "I solve algorithms for fun and turn coffee into code ☕"
